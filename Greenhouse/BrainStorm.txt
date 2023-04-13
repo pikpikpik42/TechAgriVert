@@ -1,0 +1,28 @@
+     /\    
+    //\\
+   ///\\\
+  ////\\\\
+ /////\\\\\            (It's a tree >< )
+//////\\\\\\
+     ||
+     ||
+
+
+!!!!! Put your project ideas here !!!!!
+
+:::FarmBot:::
+
+
+:::Hydroponic   s:::
+
+-Camera to have a live stream of the plant growth (ESP 32, cheap and easy)
+
+
+:::Aquaponics:::
+
+-Automatic feeder (biggest constrain is feeding the fishes)
+
+-Captors to have data on the water quality for the fishes
+
+
+:::Other:::
