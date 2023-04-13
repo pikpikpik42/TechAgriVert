@@ -1,0 +1,3 @@
+Web Link:
+
+https://randomnerdtutorials.com/esp32-cam-take-photo-display-web-server/
