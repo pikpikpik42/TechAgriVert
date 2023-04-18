@@ -1,0 +1,25 @@
+Step up tutorial:
+
+https://randomnerdtutorials.com/esp32-cam-take-photo-display-web-server/
+
+
+Approximated price : ~30€ 
+
+
+!!!! // NOT CONTEXTUAL // !!!!
+
+Hardware list :
+
+2x Esp 32 cam module OV2660 - € 6.47
+
+https://www.wish.com/search/ESP%2032%20CAM%20OV2640/product/5f929dc0bafba00bcfb507b5?source=search&position=0
+
+
+Breadboard wires  20cm - € 0.50
+
+https://fr.aliexpress.com/item/32390991500.html?spm=a2g0o.productlist.main.35.60cesZLSsZLS3V&algo_pvid=00d0a6d8-9000-4e58-a242-ee6694d4b632&algo_exp_id=00d0a6d8-9000-4e58-a242-ee6694d4b632-17&pdp_npi=3%40dis%21EUR%213.3%210.5%21%21%21%21%21%402100b0d116818037925895532d06e2%2165538693568%21sea%21FR%210&curPageLogUid=9no5yWSd83kn
+
+
+FT232RL FTDI Programmer - €2.04
+
+https://fr.aliexpress.com/item/1005002544991145.html?pdp_npi=2%40dis%21USD%212.00%211.88%21%21%21%21%21%40214fbb4a16748969713243163e%2112000021077886434%21affd&aff_fcid=2ab3c71e5e084480883984c0b9fd2dca-1681803552798-08198&aff_fsk&aff_platform=api-new-product-detail&sk&aff_trace_key=2ab3c71e5e084480883984c0b9fd2dca-1681803552798-08198&terminal_id=4a1b720152484326976d420216b62b8c&afSmartRedirect=y&gatewayAdapt=glo2fra
